@@ -25,7 +25,7 @@ class LocationsDataService {
             ticketLink: "https://www.passo.com.tr/en/event-group/yerebatan-sarnici-istanbul-muze-biletleri/247613"),
         Location(
                     name: "İSTANBUL ARCHAEOLOGICAL MUSEUMS",
-                    cityName: "ARCHAEOLOGI",
+                    cityName: "ARCHAEOLOGICAL",
                     coordinates: CLLocationCoordinate2D(latitude: 41.0116805, longitude: 28.9791237),
                     description: "Istanbul Archaeological Museums are a complex of museums consisting of three main units. The Archaeological Museum, The Museum of Ancient Oriental Works, The Tiled Kiosk Museum. Istanbul Archaeological Museum, the first museum in Turkey, has about a million artifacts from a variety of cultures, brought from the imperial lands.",
                     imageNames: [
