@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>664213348016-38e70imrirp3ad2n3faj716hlqqn2i81.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.664213348016-38e70imrirp3ad2n3faj716hlqqn2i81</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAuignaFOxY0LF8ZGpnCFm-gj7nS7cbRls</string>
+	<key>GCM_SENDER_ID</key>
+	<string>664213348016</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.CultureMapApp</string>
+	<key>PROJECT_ID</key>
+	<string>museum-istanbul</string>
+	<key>STORAGE_BUCKET</key>
+	<string>museum-istanbul.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:664213348016:ios:56cc4c20fbea2141132575</string>
+</dict>
+</plist>
